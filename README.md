@@ -11,8 +11,10 @@ make start
 
 Then go to localhost http://localhost:9000/ and can chat with Dr Chattie. 
 
-DrChattie is a small code I built a few days after OpenAI released GPT-4. Here's our paper.
+DrChattie is a small code I built a few days after OpenAI released GPT-4.
+We released two papers using GPT-4.
 https://arxiv.org/abs/2304.05406
+https://arxiv.org/abs/2306.11648
 
 We need to fix doc compression, better qa chain with sources etc. But we got this!
 
